@@ -4,7 +4,7 @@ a passionate frontend developer originally from Ukraine, now settled in Germany
 - 💼 I’m open to **remote, English-speaking roles**, whether full-time, part-time, or internships.- 🌱 I’m currently learning NextJS 14
 - 🚀 I'm also interested in opportunities with **startups** or **nonprofit organizations**, where I can make a meaningful impact and grow my skills
 - 📫 How to reach me: [yakovenkomarko@gmail.com](mailto:yakovenkomarko@gmail.com)
-- Connect with me:
+- Connect with me:<br>
 [![Telegram](https://img.shields.io/badge/-Telegram-6A5ACD?style=flat&logo=telegram&logoColor=white)](https://t.me/yourusername)
 ### Languages and Tools:
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)

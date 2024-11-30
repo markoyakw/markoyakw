@@ -1,5 +1,5 @@
 # Hi 👋, I’m Marko Yakovenko,
-a passionate frontend developer originally from Ukraine, now settled in Germany
+Frontend developer originally from Ukraine, now settled in Germany
 - 🌱 I’m currently diving deeper into NextJS 14 while building my pet-project
 - 💼 I’m open to **remote, English-speaking roles**, whether full-time, part-time, or internships
 - 🚀 I'm also interested in opportunities with **startups** or **nonprofit organizations**, where I can make a meaningful impact and grow my skills
